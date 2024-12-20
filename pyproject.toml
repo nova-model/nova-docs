@@ -7,7 +7,7 @@ readme = "README.md"
 license = "MIT"
 keywords = ["NOVA", "Galaxy", "documentation"]
 packages = [
-    {include = "nova-top-level-docs", from = "src"}
+    {include = "nova_top_level_docs", from = "src"}
 ]
 
 
