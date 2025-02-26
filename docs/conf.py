@@ -3,7 +3,7 @@
 import tomli
 
 project = "nova-top-level-docs"
-copyright = "2023, ORNL"
+copyright = "2025, ORNL"
 author = "Andrew Ayres"
 with open("../pyproject.toml", "rb") as toml_file:
     toml_dict = tomli.load(toml_file)

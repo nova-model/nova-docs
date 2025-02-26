@@ -46,3 +46,8 @@ nova-mvvm: MVVM Bindings for Python
 By providing a structured way to manage data binding it aims to significantly reduce the boilerplate required to create MVVM style applications.
 
 For detailed information, please refer to the `nova-mvvm documentation <https://nova-application-development.readthedocs.io/projects/mvvm-lib/en/latest/>`_.
+
+Getting Started
+---------------
+
+If you are new to developing NOVA applications, then we recommend you walk through the `NOVA Tutorial <https://nova.ornl.gov/tutorial/>`_. This will guide you through setting up your development environment and introduce you to working with the above NOVA libraries.
